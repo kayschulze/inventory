@@ -1,0 +1,13 @@
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\InventoryTests.deps.json
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\InventoryTests.runtimeconfig.json
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\InventoryTests.runtimeconfig.dev.json
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\obj\Debug\netcoreapp1.1\InventoryTests.AssemblyInfo.cs
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\InventoryTests.dll
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\InventoryTests.pdb
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\inventory.dll
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\bin\Debug\netcoreapp1.1\inventory.pdb
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\obj\Debug\netcoreapp1.1\InventoryTests.dll
+C:\Users\kayob\Desktop\Epicodus\inventory.Solutions\Inventory.Tests\obj\Debug\netcoreapp1.1\InventoryTests.pdb
